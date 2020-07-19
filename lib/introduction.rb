@@ -4,7 +4,7 @@ def introduction(name)
 end
 
 #intro with language
-def introduction with language(name,)
+def introduction with language(name,language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
